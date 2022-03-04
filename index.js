@@ -8,8 +8,8 @@ import { resolve, extname } from "path";
  * 3. 填写下面的 fontFileName 和license 路径
  */
 
-const fontFileName = "Alibaba-PuHuiTi-Light";
-const license = "./fonts/PuHuiTi.txt"; // 字体版权说明文件， 有则填路径即可
+const fontFileName = "NotoSansSC-Bold";
+const license = "./fonts/NotoSansSC.txt"; // 字体版权说明文件， 有则填路径即可
 const FontPath = `./fonts/${fontFileName}.ttf`;
 
 // 单个字体文件的模板是这样子的，但是如果你想要批量的话，自己慢慢填就是了
@@ -19,8 +19,8 @@ create([
         FontPath,
         license,
         css: {
-            fontFamily: "PuHuiTi",
-            fontWeight: 100,
+            fontFamily: "NotoSansSC",
+            fontWeight: 900,
         },
         chunkOptions: {
             other: 1,
