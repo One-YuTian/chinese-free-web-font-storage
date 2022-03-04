@@ -4,7 +4,7 @@ import { reactive } from "vue";
 import { CssDetail, FontDetail } from "../types";
 const fonts = reactive([] as FontDetail[]);
 fetch(
-    "https://cdn.jsdelivr.net/gh/KonghaYao/chinese-free-web-font-storage/fonts.json"
+    "https://cdn.jsdelivr.net/gh/One-YuTian/chinese-free-web-font-storage/fonts.json"
 )
     .then((res) => res.json())
     .then((res) => {
@@ -15,7 +15,7 @@ export const useGlobalStore = defineStore("global", {
         return {
             fonts,
             config: {
-                root: "https://cdn.jsdelivr.net/gh/KonghaYao/chinese-free-web-font-storage/build/",
+                root: "https://cdn.jsdelivr.net/gh/One-YuTian/chinese-free-web-font-storage/build/",
                 test: "与之斯部他行出不上公成地会个时学了后日月以和有大于人国中是为在一年的",
             },
             show: {
