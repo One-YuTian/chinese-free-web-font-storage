@@ -26,5 +26,38 @@
                 "url": "Alibaba-PuHuiTi-Bold/result.css"
             }
         ]
+    },
+    {
+        "name": "NotoSansSC",
+        "license": {
+            "link": "NotoSansSC/license.txt"
+        },
+        "css": [
+            {
+                "fontFamily": "NotoSansSC-Thin",
+                "fontWeight": 100,
+                "url": "NotoSansSC/result.css"
+            },
+            {
+                "fontFamily": "NotoSansSC-Light",
+                "fontWeight": 200,
+                "url": "NotoSansSC-Light/result.css"
+            },
+            {
+                "fontFamily": "NotoSansSC",
+                "fontWeight": 400,
+                "url": "NotoSansSC/result.css"
+            },
+            {
+                "fontFamily": "NotoSansSC-Medium",
+                "fontWeight": 500,
+                "url": "NotoSansSC-Medium/result.css"
+            },
+            {
+                "fontFamily": "NotoSansSC-Bold",
+                "fontWeight": 900,
+                "url": "NotoSansSC-Bold/result.css"
+            }
+        ]
     }
 ]
