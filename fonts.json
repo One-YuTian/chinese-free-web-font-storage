@@ -1,0 +1,156 @@
+[
+    {
+        "name": "钟齐志莽行书",
+        "css": [
+            {
+                "url": "钟齐志莽行书/result.css",
+                "fontFamily": "Zhi Mang Xing"
+            }
+        ],
+        "license": {
+            "link": "钟齐志莽行书/license.txt"
+        }
+    },
+    {
+        "name": "俐方体11号",
+        "css": [
+            {
+                "url": "Cubic/result.css",
+                "fontFamily": "Cubic"
+            }
+        ],
+        "license": {
+            "link": "Cubic/license.txt"
+        }
+    },
+    {
+        "name": "汇文明朝体",
+        "css": [
+            {
+                "url": "汇文明朝体/result.css",
+                "fontFamily": "Huiwen-mincho"
+            }
+        ],
+        "license": {
+            "link": "汇文明朝体/license.txt"
+        }
+    },
+    {
+        "name": "ipix像素字体",
+        "css": [
+            {
+                "url": "ipix_12px/result.css",
+                "fontFamily": "ipix_12px"
+            }
+        ],
+        "license": {
+            "link": "ipix_12px/license.txt"
+        }
+    },
+    {
+        "name": "逐浪萌芽字",
+        "css": [
+            {
+                "url": "逐浪萌芽字/result.css",
+                "fontFamily": "ZoomlaMengyas-A080"
+            }
+        ],
+        "license": {
+            "link": "逐浪萌芽字/license.txt"
+        }
+    },
+    {
+        "name": "优设标题黑",
+        "css": [
+            {
+                "url": "优设标题黑/result.css",
+                "fontFamily": "YouSheBiaoTiHei"
+            }
+        ],
+        "license": {
+            "link": "优设标题黑/license.txt"
+        }
+    },
+    {
+        "name": "斗鱼追光体",
+        "css": [
+            {
+                "url": "斗鱼追光体/result.css",
+                "fontFamily": "DOUYU Font"
+            }
+        ],
+        "license": {
+            "link": "斗鱼追光体/license.txt"
+        }
+    },
+    {
+        "name": "站酷庆科黄油体",
+        "css": [
+            {
+                "url": "站酷庆科黄油体/result.css",
+                "fontFamily": "zcoolqingkehuangyouti"
+            }
+        ],
+        "license": {
+            "link": "站酷庆科黄油体/license.txt"
+        }
+    },
+    {
+        "name": "站酷快乐体",
+        "css": [
+            {
+                "url": "站酷快乐体2016修订版/result.css",
+                "fontFamily": "HappyZcool-2016"
+            }
+        ],
+        "license": {
+            "link": "站酷快乐体2016修订版/license.txt"
+        }
+    },
+    {
+        "name": "千图笔锋手写体",
+        "css": [
+            {
+                "url": "千图笔锋手写体/result.css",
+                "fontFamily": "qiantubifengshouxieti"
+            }
+        ],
+        "license": {
+            "link": "千图笔锋手写体/license.txt"
+        }
+    },
+    {
+        "name": "站酷仓耳渔阳体",
+
+        "license": {
+            "link": "站酷仓耳渔阳体-W01/license.txt"
+        },
+        "css": [
+            {
+                "fontFamily": "站酷仓耳渔阳体",
+                "fontWeight": 100,
+                "url": "站酷仓耳渔阳体-W01/result.css"
+            },
+            {
+                "fontFamily": "站酷仓耳渔阳体",
+                "fontWeight": 200,
+                "url": "站酷仓耳渔阳体-W02/result.css"
+            },
+            {
+                "fontFamily": "站酷仓耳渔阳体",
+                "fontWeight": 400,
+                "url": "站酷仓耳渔阳体-W03/result.css"
+            },
+            {
+                "fontFamily": "站酷仓耳渔阳体",
+                "fontWeight": 600,
+                "url": "站酷仓耳渔阳体-W04/result.css"
+            },
+            {
+                "fontFamily": "站酷仓耳渔阳体",
+                "fontWeight": 800,
+                "url": "站酷仓耳渔阳体-W05/result.css"
+            }
+        ]
+    }
+]
